@@ -1,0 +1,28 @@
+{
+    "random_response": [
+        {
+            "command": "stupid",
+	    "inline": true,
+	    "inline_command": "You're stupid!",
+            "responses": [
+                "Don't call me stupid!",
+                "No, you're stupid!",
+                "I don't care what you call me."
+            ]
+        }
+    ],
+    "simple_response": [
+        {
+            "command": "hello",
+	    "inline": true,
+	    "inline_command": "Hello!",
+            "response": "Hello, I'm StupidBot. But I'm not actually stupid!"
+        },
+        {
+            "command": "smart",
+	    "inline": true,
+	    "inline_command": "You're smart!",
+            "response": "Yes."
+        }
+    ]
+}
